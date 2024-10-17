@@ -1,2 +1,2 @@
-# Repositório de estudo (Cafeteria)
- Estudo inicial de HTML,CSS e JS
+# Study Repository (Cafeteria)
+Initial study of HTML, CSS and JS
